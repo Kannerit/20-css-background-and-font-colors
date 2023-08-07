@@ -1,0 +1,44 @@
+body {
+    background-color: #416BA1;
+}
+
+h1{
+    background-color: #214068;
+}
+
+#text1 {
+    background-color: #889EBB;
+}
+
+h2{
+    background-color: #3E6494;
+}
+
+#text2 {
+    background-color: #BBCFE8;
+}
+
+ol {
+    background-color: #204B78;
+}
+
+#item1 {
+    color: #B94C26;
+}
+
+#item2 {
+    color: #B99D26;
+    
+}
+
+#item3 {
+    color: #081F37;
+}
+
+#item4 {
+    color: #A62248;
+}
+
+#item5 {
+    color: #7FAD23;
+}
